@@ -5,6 +5,9 @@
     <RootNamespace>Assembly_FSharp</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Bullet.fs" />
+    <Compile Include="Enemy.fs" />
+    <Compile Include="Planet.fs" />
     <Compile Include="Player.fs" />
   </ItemGroup>
   <ItemGroup>
