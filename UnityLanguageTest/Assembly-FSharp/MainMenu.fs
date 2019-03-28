@@ -1,7 +1,7 @@
 namespace Assembly_FSharp
 open UnityEngine
 
-type Bullet() =
+type MainMenu() =
     inherit MonoBehaviour()    
 
     member this.Start() =
