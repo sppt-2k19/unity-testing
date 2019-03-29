@@ -317,11 +317,11 @@
  <Reference Include="UnityEditor.Purchasing">
  <HintPath>C:/Users/zhex/Documents/Projects/unity-testing/UnityLanguageTest/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
  </Reference>
- <Reference Include="FSharp.Core">
- <HintPath>C:/Users/zhex/Documents/Projects/unity-testing/UnityLanguageTest/Assets/FSharpIntegration/FSharp.Core.dll</HintPath>
- </Reference>
  <Reference Include="Assembly-FSharp">
  <HintPath>C:/Users/zhex/Documents/Projects/unity-testing/UnityLanguageTest/Assets/FSharpIntegration/Assembly-FSharp.dll</HintPath>
+ </Reference>
+ <Reference Include="FSharp.Core">
+ <HintPath>C:/Users/zhex/Documents/Projects/unity-testing/UnityLanguageTest/Assets/FSharpIntegration/FSharp.Core.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
