@@ -500,80 +500,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 851644843}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &866345274
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 6949246348431763327, guid: 98dfce8ae6af1ee4e94178c1a52a7978,
-        type: 3}
-      propertyPath: m_Name
-      value: Explosion
-      objectReference: {fileID: 0}
-    - target: {fileID: 6949246348431763266, guid: 98dfce8ae6af1ee4e94178c1a52a7978,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -1.06
-      objectReference: {fileID: 0}
-    - target: {fileID: 6949246348431763266, guid: 98dfce8ae6af1ee4e94178c1a52a7978,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -2.5267985
-      objectReference: {fileID: 0}
-    - target: {fileID: 6949246348431763266, guid: 98dfce8ae6af1ee4e94178c1a52a7978,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6949246348431763266, guid: 98dfce8ae6af1ee4e94178c1a52a7978,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6949246348431763266, guid: 98dfce8ae6af1ee4e94178c1a52a7978,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6949246348431763266, guid: 98dfce8ae6af1ee4e94178c1a52a7978,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6949246348431763266, guid: 98dfce8ae6af1ee4e94178c1a52a7978,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6949246348431763266, guid: 98dfce8ae6af1ee4e94178c1a52a7978,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6949246348431763266, guid: 98dfce8ae6af1ee4e94178c1a52a7978,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6949246348431763266, guid: 98dfce8ae6af1ee4e94178c1a52a7978,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6949246348431763266, guid: 98dfce8ae6af1ee4e94178c1a52a7978,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1088490857827068946, guid: 98dfce8ae6af1ee4e94178c1a52a7978,
-        type: 3}
-      propertyPath: MinDistance
-      value: 495.0495
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 98dfce8ae6af1ee4e94178c1a52a7978, type: 3}
 --- !u!1001 &1023823030
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -689,7 +615,7 @@ Transform:
   - {fileID: 1795358530}
   - {fileID: 1138300145}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1138300144
 PrefabInstance:
@@ -843,7 +769,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1247767094
 PrefabInstance:
@@ -1270,7 +1196,7 @@ PrefabInstance:
     - target: {fileID: 16312708875664018, guid: bc9dff6a921430b428abfba44599d57e,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 16312708875664018, guid: bc9dff6a921430b428abfba44599d57e,
         type: 3}
@@ -1339,7 +1265,7 @@ PrefabInstance:
     - target: {fileID: 2882448019728022368, guid: 8e0907b4e2c8e7f418952d1b39e91ec9,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2882448019728022368, guid: 8e0907b4e2c8e7f418952d1b39e91ec9,
         type: 3}
