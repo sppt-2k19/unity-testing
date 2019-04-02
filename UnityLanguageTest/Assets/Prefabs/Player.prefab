@@ -122,9 +122,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 2882448019728022382}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 222079490, guid: 14e7b82bb08e3e140b9b4d38dd9d4487, type: 3}
+  m_Script: {fileID: 222079490, guid: 9b76916861654451d967de48582fa81f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movementSpeed: 20
+  bulletSpeed: 20
+  rb: {fileID: 0}
+  bullet: {fileID: 0}
+  audioData: {fileID: 0}
 --- !u!61 &5426667274751402803
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -162,7 +167,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: ea9a0fa386717d740b9c9f6e82336073, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
