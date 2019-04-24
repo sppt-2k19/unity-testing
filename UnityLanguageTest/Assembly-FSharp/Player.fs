@@ -10,5 +10,5 @@ type Player() =
         
     member this.Update() =
         let startupMessage = "Printed on every update"
-        Debug.Log(startupMessage)
+        ()
 
